@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//TODO Даны два ненулевых числа. Найти сумму, разность, произведение и частное их квадратов.
 
 public class TaskEighth {
     public static void main(String[] args) {
